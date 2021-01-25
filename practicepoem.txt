@@ -1,4 +1,4 @@
-Hello! and more about me!
+Hello! and more about me! and my favorite things!
 
 This is a practice poem
 
@@ -9,3 +9,4 @@ This is the end of the practice poem
 
 Goodbye
 From me
+And my favorite things
